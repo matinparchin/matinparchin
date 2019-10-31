@@ -10,7 +10,7 @@ w=0
 n=input("what is password? ? ?")
 if n == pass1:
     
-    site = "http://persian-cyber.xyz/send-message/AR-MAN.php?message="+m+"&id="+id+"&pass=@persian_cyber_org"
+    site = "http://persian-cyber.xyz/send-message/AR-MAN.php?message="+m+"&id="+id+"&pass=@matinparchin"
     mmd=builtwith.parse(site)
     print("OK ! !  done successfully")
 else :
